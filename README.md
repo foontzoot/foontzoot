@@ -25,7 +25,7 @@ I am proficient in .NET, Go, JavaScript, TypeScript, and Python. I am skilled in
 - 🔭 I’m currently working on fullstack web development insurance 🤦 app
 - 🌱 I’m ~~currently~~ constantly learning all things .NET
 
-#### FUN Facts
+#### FUN FACTS
 
 - ⚡ I learned coding using Pascal, C, Erlang, and Smalltalk
 - ⚡ My first IDE was Borland Turbo C, later I used Borland's C++ and Delphi, as well as IBM's Visual Age
