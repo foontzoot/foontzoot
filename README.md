@@ -3,6 +3,12 @@
 <!--
 **foontzoot/foontzoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://twitter.com/SinisaPetkovic
+
+https://www.linkedin.com/in/sinisa-petkovic-b704034/
+
+https://github.com/foontzoot
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
