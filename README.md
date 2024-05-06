@@ -15,13 +15,23 @@
 Want to have a project visitor badge as well? Simply add this to your readme `![](https://vistr.dev/badge?repo=username.repoName)` and replace `username` and `repoName` with the correct values.
 
 #### SHORT BIO
-⚡ As a seasoned Software Developer/Consultant and Team leader, I have complimented and led teams through all software development phases for over two decades. My expertise extends from requirement gathering and analysis to design, development, testing, and support. I am well-versed in operating systems, development environments, frontend and backend programming languages, and data architecture.
 
-⚡ I am proficient in .NET, Go, JavaScript, TypeScript, and Python. I am skilled in database development using SQL Server, PostgreSQL, MySQL, MongoDB, and other relational, document and graph databases. I am adept at designing and implementing scalable cloud solutions, including Azure and AWS.
+As a seasoned Software Developer/Consultant and Team leader, I have complimented and led teams through all software development phases for over two decades. My expertise extends from requirement gathering and analysis to design, development, testing, and support. I am well-versed in operating systems, development environments, frontend and backend programming languages, and data architecture.
+
+I am proficient in .NET, Go, JavaScript, TypeScript, and Python. I am skilled in database development using SQL Server, PostgreSQL, MySQL, MongoDB, and other relational, document and graph databases. I am adept at designing and implementing scalable cloud solutions, including Azure and AWS.
 
 #### INTERESTS
-- 🔭 I’m currently working on fullstack web development
+
+- 🔭 I’m currently working on fullstack web development insurance 🤦 app
 - 🌱 I’m ~~currently~~ constantly learning all things .NET
+
+#### FUN Facts
+
+- ⚡ I learned coding using Pascal, C, Erlang, and Smalltalk
+- ⚡ My first IDE was Borland Turbo C, later I used Borland's C++ and Delphi, as well as IBM's Visual Age
+- ⚡ DB2, Oracle and Sybase were my introduction to RDBMS
+- ⚡ I hosted my first website on Geocities, unfortunately I lost all my backups
+- ⚡ First Linux distro I used was Slackware
 
 
 <!--
