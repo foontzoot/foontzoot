@@ -12,6 +12,8 @@
 
 ![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=dracula)
 
+Want to have a project visitor badge as well? Simply add this to your readme `![](https://vistr.dev/badge?repo=username.repoName)` and replace `username` and `repoName` with the correct values.
+
 #### SHORT BIO
 ⚡ As a seasoned Software Developer/Consultant and Team leader, I have complimented and led teams through all software development phases for over two decades. My expertise extends from requirement gathering and analysis to design, development, testing, and support. I am well-versed in operating systems, development environments, frontend and backend programming languages, and data architecture.
 
