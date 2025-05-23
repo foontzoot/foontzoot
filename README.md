@@ -18,11 +18,11 @@ Want to have a project visitor badge as well? Simply add this to your readme `![
 
 As a seasoned **Software Developer/Consultant** and **Team Leader**, I have complimented and led teams through all software development phases for over two decades. My expertise extends from requirement gathering and analysis to design, development, testing, and support. I am well-versed in operating systems, development environments, frontend and backend programming languages, and data architecture.
 
-I am proficient in .NET, Go, JavaScript, TypeScript, and Python. I am skilled in database development using relational, document and graph databases. I am adept at designing and implementing scalable cloud solutions, including Azure and AWS.
+I am proficient in C#, JavaScript, TypeScript, Go, and Python. I am skilled in database development using relational, document and graph databases. I am adept at designing and implementing scalable cloud solutions, including Azure and AWS.
 
 #### .NET
 
-A proven and results-oriented **.NET backend developer**, I have deep expertise across the full spectrum of .NET technologies, including both **.NET Framework** and **.NET Core**. My *mastery* of core concepts such as Threading, Delegates, Events, Generics, Collections, Exception Handling, Transactions, Reflection, and Serialization ensures the development of highly scalable, robust, and easily maintainable server-side applications that consistently exceed expectations.
+A proven and results-oriented **.NET backend developer**, I have deep expertise across the full spectrum of .NET technologies, including both **.NET Framework** and **.NET Core**. My *mastery* of core concepts such as Threading, Cashing, Delegates, Events, Generics, Collections, Exception Handling, Transactions, Reflection, and Serialization ensures the development of highly scalable, robust, and easily maintainable server-side applications that consistently exceed expectations.
 
 A versatile and user-focused **.NET frontend developer**, I bring experience across a range of .NET UI technologies, including modern web experiences with **Blazor**, cross-platform native applications with **MAUI**, and established desktop solutions using **WPF** and **WinForms**. While my primary focus lies in crafting intuitive and engaging user interfaces, my familiarity with legacy **WebForms** applications allows for seamless integration and maintenance within diverse .NET ecosystems.
 
@@ -42,20 +42,27 @@ I have worked extensively with a diverse set of database systems, including **re
 
 I also have experience with data integration tools like Azure Data Factory and SSIS.
 
+#### MESSAGING SERVICES
+
 #### STREAMING SERVICES
+
+#### PROGRAMMING LANGUAGES
 
 #### INTERESTS
 
 - 🔭 I’m currently working on fullstack web development insurance 🤦 app
 - 🌱 I’m ~~currently~~ constantly learning all things .NET
 
-#### FUN FACTS
+#### FUN FACTS ABOUT ME
 
-- ⚡ I learned coding using Pascal, C, Erlang, and Smalltalk
+- ⚡ Introduction to computers: Commodore 64
+- ⚡ My first IT intership was with Luka Rijeka, job description: Tape Carrier
+- ⚡ I learned coding using Basic, Pascal, C, Erlang, and Smalltalk
 - ⚡ My first IDE was Borland Turbo C, later I used Borland's C++ and Delphi, as well as IBM's Visual Age
 - ⚡ DB2, Oracle and Sybase were my introduction to RDBMS
-- ⚡ I hosted my first website on Geocities, unfortunately I lost all my backups
-- ⚡ First Linux distro I used was Slackware
+- ⚡ I hosted my first website on Geocities
+- ⚡ First Linux distro I used was Slackware downloaded overnight
+- ⚡ My current Linux distro is Ubuntu (sometimes I use Fedora or SUSE)
 
 
 <!--
