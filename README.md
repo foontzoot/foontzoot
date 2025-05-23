@@ -1,6 +1,8 @@
 # Hey there 👋, I'm foontzoot
 
->My name is Sinisa Petkovic. *foontzoot* is my childhood nickname, originating in the Croatian word *funcut*, meaning wise or funny person.
+- 😄 My name is Sinisa Petkovic. *Fontzoot* is my childhood nickname, originating in the Croatian word *funcut*, meaning wise or funny person. You think I'm funny!? How funny do you think I am!?
+
+- 💬 Ask me about software development and **ADHD**
 
 <!--
 **foontzoot/foontzoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
