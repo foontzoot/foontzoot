@@ -75,7 +75,6 @@ Throughout my extensive career as a software engineer, I have cultivated deep ex
 - ⚡ First Linux distro I used was Slackware downloaded overnight
 - ⚡ My current Linux distro is Ubuntu (sometimes I use Fedora or SUSE)
 
-
 <!--
 Here are some ideas to get you started:
 
