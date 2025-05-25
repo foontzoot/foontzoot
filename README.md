@@ -59,7 +59,7 @@ Adept at designing and implementing highly scalable and real-time backend soluti
 
 #### PROGRAMMING LANGUAGES
 
-Throughout my extensive career as a software engineer, I have cultivated deep expertise in various programming languages. I am fully proficient in **C#**, **Go**, **Python**, **JavaScxript**, **TypeScript**, **C**, **C++**, **PHP**, and **Scala**, allowing me to contribute effectively to diverse projects and teams. My passion for continuous learning extends to exploring and experimenting with languages like **Rust**, **Elixir**, **Ruby**, and **OCaml**, fostering adaptability and a broad understanding of software development paradigms.
+Throughout my extensive career as a software engineer, I have cultivated deep expertise in various programming languages. I am fully proficient in **C#**, **Go**, **JavaScxript**, **TypeScript**, **Python**, **C/C++**, **Spring**, **PHP**, and **Scala**, allowing me to contribute effectively to diverse projects and teams. My passion for continuous learning extends to exploring and experimenting with languages like **Rust**, **Elixir**, **Ruby**, and **OCaml**, fostering adaptability and a broad understanding of software development paradigms.
 
 #### INTERESTS
 
