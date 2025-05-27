@@ -1,22 +1,27 @@
 # Hey there 👋, I'm foontzoot
 
-- 😄 My name is Sinisa Petkovic. *Fontzoot* is my childhood nickname, originating in the Croatian word *funcut*, meaning wise or funny person. You think I'm funny!? How funny do you think I am!?
+- 😄 My name is Sinisa Petkovic. *Fontzoot* is my childhood nickname, originating in the Croatian word *funcut*, meaning wise or funny person.
 
-- 💬 Ask me about software development and **ADHD**
+## 💬 Ask me about
+
+| [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dot.net) | [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com) | [![AWS](https://skillicons.dev/icons?i=aws)](https://azure.microsoft.com) | [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) | [![Angular](https://skillicons.dev/icons?i=angular)](https://react.dev/) | [![Go](https://skillicons.dev/icons?i=go)](https://dot.net) | [![ADHD](assets/adhd.png)](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) |
+|-----|-----|-----|-----|-----|-----|-----|
+| &nbsp; .NET | &nbsp; Azure | &nbsp; AWS | &nbsp; React | Angular | &nbsp; &nbsp; &nbsp;Go | &nbsp; &nbsp; ADHD |
 
 <!--
 **foontzoot/foontzoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![twitter](https://img.shields.io/badge/-@SinisaPetkovic-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/SinisaPetkovic)
 [![github](https://img.shields.io/badge/-@foontzoot-%23181717?style=flat-square&logo=github)](https://github.com/foontzoot)
-[![linked-in](https://img.shields.io/badge/-Sinisa%20Petkovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinisa-petkovic-b704034/)](https://www.linkedin.com/in/sinisa-petkovic-b704034/)
+[![linked-in](assets/linked-in.png)](https://www.linkedin.com/in/sinisa-petkovic-b704034/)
 
 ## STATS
 
-![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=dracula)
+[![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=jolly&show)](https://sinisapetkovic.com)
 
-Want to have a project visitor badge as well? Simply add this to your readme `![](https://vistr.dev/badge?repo=username.repoName)` and replace `username` and `repoName` with the correct values.
+[![foontzoot's github langs](https://github-readme-stats.vercel.app/api/top-langs?username=foontzoot&theme=jolly&show_icons=true&layout=compact)](https://github.com/foontzoot/github-readme-stats)
+
+![foontzoot's github streak](https://github-readme-streak-stats.herokuapp.com/?user=foontzoot&theme=jolly&hide_border=false)
 
 ### SHORT BIO
 
