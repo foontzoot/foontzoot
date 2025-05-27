@@ -12,6 +12,8 @@
 **foontzoot/foontzoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[![LinkedIn](/assets/linked-in.png)](https://www.linkedin.com/in/sinisa-petkovic-b704034/)
+
 ## OBLIGATORY STATS
 
 [![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=jolly&show)](https://sinisapetkovic.com)
