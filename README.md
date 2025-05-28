@@ -16,11 +16,11 @@
 
 ## OBLIGATORY STATS
 
-[![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=jolly&show)](https://sinisapetkovic.com)
+[![foontzoot's github stats](https://github-readme-stats.vercel.app/api?username=foontzoot&show_icons=true&theme=onedark&show)](https://sinisapetkovic.com)
 
-[![foontzoot's github langs](https://github-readme-stats.vercel.app/api/top-langs?username=foontzoot&theme=jolly&show_icons=true&layout=compact)](https://github.com/foontzoot/github-readme-stats)
+[![foontzoot's github langs](https://github-readme-stats.vercel.app/api/top-langs?username=foontzoot&theme=onedark&show_icons=true&layout=compact)](https://github.com/foontzoot/github-readme-stats)
 
-![foontzoot's github streak](https://github-readme-streak-stats.herokuapp.com/?user=foontzoot&theme=jolly&hide_border=false)
+[![foontzoot's github streak](https://github-readme-streak-stats.herokuapp.com?user=foontzoot&theme=onedark&mode=weekly&card_width=525)](https://git.io/streak-stats)
 
 ### SHORT BIO
 
